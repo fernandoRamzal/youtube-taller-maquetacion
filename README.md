@@ -1,1 +1,1 @@
--[landing Page de tipo portafolio-cv](https://fernandoRamzal.github.io/youtube-taller-maquetacion/portafolio-cv)
+-[landing Page de tipo portafolio-cv](https://fernandoRamzal.github.io/youtube-taller-maquetacion/)
